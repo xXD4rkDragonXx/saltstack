@@ -7,3 +7,6 @@ base:
 
   '*word*':
     - wordpress
+  
+  '*docker*':
+    - docker
